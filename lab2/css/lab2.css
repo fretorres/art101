@@ -1,0 +1,18 @@
+h1 {
+    color:rgba(49, 46, 46, 0.832);
+    font-size:xx-large
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 20px;
+    margin-left: 20px;
+    font-size: large;
+}
+#content {
+    background-color:deepskyblue;
+    width: 300px;
+    min-height: 100px;
+    padding: 20px;
+    margin: 30px;
+    border: solid 20px #e07979dc
+}

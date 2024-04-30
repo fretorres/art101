@@ -1,10 +1,25 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - Lab 6, Arrays anf objects
+// Author: Freddie Torres
+// Date: April 29, 2024
 
-// Constants
+// Define Variables
+Modesoftransport = ["golfredo", "Bike", "Skateboard"]
 
-// Functions
+// create an object for modes of transport
+golfredo = {
+    make: "Volkswagen",
+    model: "Golf",
+    color: "Grey",
+    year: 2005,
+    age: function() {
+        return 2024 - this.year;
+  }
+}
+
+// output
+document.writeln("Modes of transportation")
+document.writeln("golfredo: <pre>",
+  JSON.stringify(golfredo, null, '\t'),"</pre>");
 
 // this is an example function and this comment tells what it doees and what parameters are passed to it.
 function myFunction(param1, param2) {

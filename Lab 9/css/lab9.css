@@ -1,0 +1,26 @@
+body {
+    background-color: #50808E;
+  }
+  h1,h2,h3 {
+    font-family: sans-serif;
+  }
+  #content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #888;
+    background-color: #84B59F;
+  }
+  .minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #A3C9A8;
+  }
+  
+
+.special {
+    background-color: lavender;
+    border: dotted 5px red;
+    color: pink;
+    font-weight: bold;
+}

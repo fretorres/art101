@@ -1,0 +1,18 @@
+button {
+    background-color: hsl(341, 89%, 78%);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  button:hover {
+    background-color: hsl(52, 98%, 67%);
+  }
+
+  /* Set the font family of paragraphs to Arial */
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
